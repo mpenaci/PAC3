@@ -303,7 +303,7 @@ Página index.html
   padding-right: 10px;
   padding-left: 10px;
 }
-
+/*
 .h-red {
   background: rgb(182, 91, 81);
   clip-path: polygon(0 0, 70% 0%, 60% 100%, 0% 100%);
@@ -327,7 +327,7 @@ Página index.html
     background: rgb(217, 221, 227);
   }
 }
-
+*/
 
 @media (min-width: 992px) {
   .p1 {
