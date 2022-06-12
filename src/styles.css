@@ -303,14 +303,10 @@ Página index.html
   padding-right: 10px;
   padding-left: 10px;
 }
-/*
+
 .h-red {
   background: rgb(182, 91, 81);
   clip-path: polygon(0 0, 70% 0%, 60% 100%, 0% 100%);
-  animation: polygons 4s;
-}
-
-.p1{
   animation: polygons 4s;
 }
 
@@ -328,7 +324,7 @@ Página index.html
     background: rgb(217, 221, 227);
   }
 }
-*/
+
 
 @media (min-width: 992px) {
   .p1 {
