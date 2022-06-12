@@ -312,7 +312,7 @@ Página index.html
 /*
 .p1{
   animation: polygons 4s;
-}*/
+}
 
 @keyframes polygons {
   25% {
@@ -328,7 +328,7 @@ Página index.html
     background: rgb(217, 221, 227);
   }
 }
-
+*/
 
 @media (min-width: 992px) {
   .p1 {
