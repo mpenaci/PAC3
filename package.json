@@ -25,10 +25,7 @@
     "type": "git",
     "url": "git+https://github.com/uoc-advanced-html-css/uoc-boilerplate.git"
   },
-  "author": {
-    "name": "Jordi Tarrida",
-    "email": "jorditarrida@uoc.edu"
-  },
+  "author": "Jordi Tarrida <jorditarrida@uoc.edu>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/uoc-advanced-html-css/uoc-boilerplate/issues"
@@ -48,5 +45,6 @@
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.2.1"
-  }
+  },
+  "main": "tailwind.config.js"
 }
